@@ -1,6 +1,4 @@
 # Leetcode-Made-Easy-Python-
-# Leetcode Made Easy (Python)
-
 Este repositório contém soluções em Python para problemas do LeetCode, organizados de forma fácil de entender e implementar. O objetivo é fornecer uma referência útil para quem está aprendendo Python ou se preparando para entrevistas de programação.
 
 ## Estrutura do Repositório
